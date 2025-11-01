@@ -7,9 +7,9 @@ This project compares different machine learning and deep learning models for mu
 
 - **Random Forest**
 - **Custom Simple CNN**
-- **ResNet**
-- **DenseNet**
-- **EfficientNet**
+- **ResNet18**
+- **DenseNet121**
+- **EfficientNet-b0**
 
 ## Dataset
 
